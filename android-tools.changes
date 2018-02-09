@@ -1,3 +1,6 @@
+* Fri Feb 09 2017 Nokius - 4.2.2_git20130218-16
+ - [ubu-chroot] add Ubuntu 16.04 (Xenial) to version check
+
 * Thu Oct 27 2016 Igor Zhbanov <igor.zhbanov@jolla.com> - 4.2.2_git20130218-15
 - [ubu-chroot] Fix crash with >=util-linux-2.27. Fixes JB#36583
 - [ubu-chroot] Let environment know we are within the ubu-chroot
